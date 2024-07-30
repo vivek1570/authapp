@@ -1,6 +1,6 @@
 const x = (req, res) => {
   res.json({
-    message: "Api is not working hello muchu",
+    message: "Api is not working hello machu",
   });
 };
 
